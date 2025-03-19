@@ -1,15 +1,15 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Economie Avondspel](#economie-avondspel)
-- [💰 **Lonen Overzicht**  ](#-lonen-overzicht)
-   * [🍳 **Keuken**  ](#-keuken)
-   * [🏪 **Kassazone Counter**  ](#-kassazone-counter)
-   * [🚶‍♂️ **Steegje + Walk-Through**  ](#-steegje-walk-through)
-   * [🏢 **Klantenzone**  ](#-klantenzone)
-   * [👨‍👩‍👦‍👦 **Families & Klanten**  ](#-families-klanten)
+- [**Lonen Overzicht**  ](#-lonen-overzicht)
+   * [**Keuken**  ](#-keuken)
+   * [**Kassazone Counter**  ](#-kassazone-counter)
+   * [**Steegje + Walk-Through**  ](#-steegje-walk-through)
+   * [**Klantenzone**  ](#-klantenzone)
+   * [**Families & Klanten**  ](#-families-klanten)
 - [**Economie en Kassasysteem**  ](#economie-en-kassasysteem)
    * [**Uitbetalingen door Greetje Geldautomaat:**  ](#uitbetalingen-door-greetje-geldautomaat)
-   * [🏴‍☠️ **Illegale en Grijze Geldstromen**  ](#-illegale-en-grijze-geldstromen)
+   * [**Illegale en Grijze Geldstromen**  ](#-illegale-en-grijze-geldstromen)
       + [**Diefstalregels:**  ](#diefstalregels)
    * [**Speciale Sugar Daddies en Geldstromen**  ](#speciale-sugar-daddies-en-geldstromen)
    * [**Belastingen en Overheidsregels**  ](#belastingen-en-overheidsregels)
@@ -23,12 +23,12 @@
 # Economie Avondspel
 
 <!-- TOC --><a name="-lonen-overzicht"></a>
-# 💰 **Lonen Overzicht**  
+# **Lonen Overzicht**  
 
 Ik dacht eventueel ook aan ranges binnen 0 en x dus bv mananger Marco 💲 (7 - 9). Zodat ook lonen dynamisch veranderen met de situatie  die in het spel vorderd of met het fictief restaurant en andere jobs daarbuiten. 
 
 <!-- TOC --><a name="-keuken"></a>
-## 🍳 **Keuken**  
+## **Keuken**  
 | Naam                | Rol                               | Loon                                               |
 | ------------------- | --------------------------------- | -------------------------------------------------- |
 | **Vettige Vik**     | Voormalig eigenaar, nood aan geld | **<span style="color:green;">💲💲💲💲💲💲💲💲</span> (8)** |
@@ -39,7 +39,7 @@ Ik dacht eventueel ook aan ranges binnen 0 en x dus bv mananger Marco 💲 (7 - 
 ---
 
 <!-- TOC --><a name="-kassazone-counter"></a>
-## 🏪 **Kassazone Counter**  
+## **Kassazone Counter**  
 | Naam                    | Rol                                 | Loon                                                |
 | ----------------------- | ----------------------------------- | --------------------------------------------------- |
 | **Manager Marco**       | Hoge functie, kostenbesparing       | **<span style="color:green;">💲💲💲💲💲💲💲💲💲</span> (9)** |
@@ -49,7 +49,7 @@ Ik dacht eventueel ook aan ranges binnen 0 en x dus bv mananger Marco 💲 (7 - 
 ---
 
 <!-- TOC --><a name="-steegje-walk-through"></a>
-## 🚶‍♂️ **Steegje + Walk-Through**  
+## **Steegje + Walk-Through**  
 | Naam                      | Rol                                | Loon                                                |
 | ------------------------- | ---------------------------------- | --------------------------------------------------- |
 | **Kaufland de Kip**       | Illegale handel in restanten       | **<span style="color:green;">💲💲💲💲</span> (4)**      |
@@ -65,7 +65,7 @@ Ik dacht eventueel ook aan ranges binnen 0 en x dus bv mananger Marco 💲 (7 - 
 ---
 
 <!-- TOC --><a name="-klantenzone"></a>
-## 🏢 **Klantenzone**  
+## **Klantenzone**  
 | Naam                   | Rol                          | Loon                                              |
 | ---------------------- | ---------------------------- | ------------------------------------------------- |
 | **Roepende Rütger**    | Bestellingen omroepen        | **<span style="color:green;">💲💲💲💲💲</span> (5)**   |
@@ -113,7 +113,7 @@ Ik dacht eventueel ook aan ranges binnen 0 en x dus bv mananger Marco 💲 (7 - 
 ---
 
 <!-- TOC --><a name="-illegale-en-grijze-geldstromen"></a>
-## 🏴‍☠️ **Illegale en Grijze Geldstromen**  
+## **Illegale en Grijze Geldstromen**  
 Sommige rollen verdienen geld via **niet-officiële kanalen**:  
 | Rol                         | Illegale actie                       | Hoe ze geld verdienen                     |
 | --------------------------- | ------------------------------------ | ----------------------------------------- |
@@ -149,7 +149,7 @@ Naast lonen en illegale inkomsten zijn er **extra geldstromen**:
 ## **Belastingen en Overheidsregels**  
 Om het spel realistischer te maken of ergens toch wel wat in balans te houden zijn er **belastingen en regels** voor de economie:  
 1. **Belasting op inkomens hoger dan 💲💲💲💲💲💲💲 (7) hoger/lager**  
-   - 10% van het salaris moet worden **afgegeven aan Greetje** als "belasting".  
+   - x van het salaris moet worden **afgegeven aan Greetje** als "belasting".  
    - Marley is de enige die dit **kan omzeilen**?
 2. **Boetes voor overtredingen**  
    - Spelers die regels breken als in echte spel regels moeten een **boete** betalen.  
